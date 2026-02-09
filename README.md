@@ -26,5 +26,5 @@ You can play **Cotti the Knight** online:
 **Play Locally:**  
 1. Clone or download the repository:  
    ```bash
-   git clone https://github.com/cottidev/cotti-the-knight.git
+   git clone https://github.com/cottidev/Cotti-The-Knight.git
 
